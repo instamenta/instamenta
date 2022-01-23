@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @instamenta
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JavaScript Advanced
+- 💞️ I’m looking to collaborate on Projects
+- 📫 How to reach me jam47m@gmail.com
