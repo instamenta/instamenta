@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @instamenta
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript Advanced
+- 👀 I’m interested in JavaScript, TypeScript, Node.js, Express.js, React.js, Angular, Html & Css.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Projects
