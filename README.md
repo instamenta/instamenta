@@ -18,5 +18,6 @@
 
 ### Contact me: 
 LinkedIn ~ https://www.linkedin.com/in/jan-milenkov/
+
 Email ~ instamenta@abv.bg
 Thanks for stopping by! 👍
